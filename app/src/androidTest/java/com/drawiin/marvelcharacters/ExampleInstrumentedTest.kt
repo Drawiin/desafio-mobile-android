@@ -1,4 +1,4 @@
-package com.drawiin.myheros
+package com.drawiin.marvelcharacters
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
